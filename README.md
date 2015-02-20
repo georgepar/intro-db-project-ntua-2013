@@ -7,4 +7,4 @@ jQueryUI
 Datatables
 HTML5
 
-I implemented an MVC architecture using bare PHP and I also tried to implement a basic object relational mapping (which has some bugs).
+I implemented an MVC architecture using bare PHP and I also tried to implement a basic object relational mapping (which I don't guarantee it works in every case).
